@@ -9,7 +9,7 @@ Heading
 
 So if I space twice, it will take the text to the   new line
 
-To get some bullets done
+To get some bullets done:
 *one
 *two
 *three
