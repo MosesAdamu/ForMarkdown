@@ -6,3 +6,5 @@ Create a README file to check the functionality of Markdown
 Heading
 =======
 # Heading Size
+
+So if I space twice, it will take the text to the   new line
